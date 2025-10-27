@@ -43,7 +43,7 @@ Para a leitura dos valores de VP, VN, FP e FN, será necessário escolher uma ma
     </tr>
     <tr>
         <td>F-score</td>
-        <td>(2 \* VP) / (2 \* VP + FP + FN)</td>
+        <td>2 * (P * S) / (P + S)</td>
     </tr>
 </table>
 
